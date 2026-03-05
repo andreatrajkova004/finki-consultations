@@ -242,3 +242,7 @@ Firestore Security Rules осигуруваат дека:
 подобра организација на времето
 
 едноставен и интуитивен интерфејс
+## GitHub Repository
+
+Project repository:
+https://github.com/andreatrajkova004/finki-consultations
